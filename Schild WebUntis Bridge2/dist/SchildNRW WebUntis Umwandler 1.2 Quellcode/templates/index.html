@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schild WebUntis Bridge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+        }
+        .form-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+        form {
+            text-align: center;
+        }
+        label {
+            display: block;
+            margin: 10px 0;
+        }
+        input[type="submit"] {
+            font-size: 20px;
+            padding: 10px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <form method="POST">
+            <label for="use_abschlussdatum">Benutze Vorrauss. Abschlussdatum als Entlassdatum, falls dieses früher liegt oder kein Entlassdatum existiert</label>
+            <input type="checkbox" id="use_abschlussdatum" name="use_abschlussdatum">
+            <br>
+            <label for="create_second_file">Erstelle Liste mit fehlenden Entlassdatumsangaben</label>
+            <input type="checkbox" id="create_second_file" name="create_second_file">
+            <br>
+            <input type="submit" value="Run">
+        </form>
+    </div>
+</body>
+</html>
