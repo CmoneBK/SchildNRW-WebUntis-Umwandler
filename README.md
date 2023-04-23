@@ -6,7 +6,7 @@ Ich habe mir die Mühe gemacht ein kleines Programm zu basteln, was Sie unterst�
 Das Programm nimmt sich einen Export von Schild, wandelt mehrere Spalten so um, dass sie in dem Format angelegt werden, wie WebUnits sie braucht und speichert das Ergebnis als neue Datei mit dem aktuellen Datum und der Uhrzeit in einem Unterordner wieder ab.
 Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm sucht immer nach der neuesten .csv in diesem Ordner und nimmt diese als Datenquelle.
 
-Voraussetzungen:
+## Voraussetzungen:
 1. Ein Auswahfilter (Filter I) in SchildNRW, der wie folgt eingestellt ist:
 Unten bei Laufbahninfo: Schuljahr das aktuelle Schuljahr auswählen
 Oben rechts bei Status: Aktiv, Abschluss und Abgänger anwählen
@@ -22,27 +22,23 @@ Es wird nicht funktionieren, wenn Sie die Datei als Excel-Datei exportieren und 
 
 3. Ein in WebUntis korrekt konfigurierter Import:
 Als Zeichensatz ist UTF-8 zu wählen.
-![Korrekt konfigurierter WebUntis Import](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/blob/master/WebUntis%20Importeinstellungen.png)
+![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
 
-Hinweise:
-Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
-Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
-Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
-Importieren sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
-Die Daten Schulpflicht und Volljährig sind nur bei Nutzung des digitalen Klassenbuchs oder bei der Nutzung von WebUnits als digialer Klassenordner von Nutzen.
-Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich übernehme keinerlei Haftung.
-Sie erhalten unter folgenden Links die ausführbaren .exe Dateien,
-die zu grundliegenden Python Skripte, aus dem die .exe Datei kompiliert wurden
-und den Quellcode nochmal als .txt Dateien.
+## Hinweise:
+*Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
+*Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
+*Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
+*Importieren sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
+*Die Daten Schulpflicht und Volljährig sind nur bei Nutzung des digitalen Klassenbuchs oder bei der Nutzung von WebUnits als digialer Klassenordner von Nutzen.
+-Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich übernehme keinerlei Haftung.
 
-
-Update 1.2
+### Update 1.2
 Änderungen:
 - Es wird nun ein Browserfenster mit Auswahloptionen angezeigt.
 - Sie können wählen, ob das vorraussichtliche Abschlussdatum als Entlassdatum eingesetzt werden soll.
 - Sie können Sich außerdem eine Liste von Schüler:innen mit fehlendem Entlassdatum anzeigen lassen, die jedoch bereits abgemeldet oder abgegangen sind.
 
-Installation
+## Installation
 
 Die .exe Dateien finden sie unter:
 
