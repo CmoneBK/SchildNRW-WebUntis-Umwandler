@@ -6,8 +6,8 @@ Ich habe mir die Mühe gemacht ein kleines Programm zu basteln, was Sie unterst�
 Das Programm nimmt sich einen Export von Schild, wandelt mehrere Spalten so um, dass sie in dem Format angelegt werden, wie WebUnits sie braucht und speichert das Ergebnis als neue Datei mit dem aktuellen Datum und der Uhrzeit in einem Unterordner wieder ab.
 Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm sucht immer nach der neuesten .csv in diesem Ordner und nimmt diese als Datenquelle.
 
-## Voraussetzungen:
-### 1. Ein Auswahfilter (Filter I) in SchildNRW, der wie folgt eingestellt ist:
+## Voraussetzungen
+### 1. Ein Auswahfilter (Filter I) in SchildNRW, der wie folgt eingestellt ist
 - Unten bei Laufbahninfo: Schuljahr das aktuelle Schuljahr auswählen
 - Oben rechts bei Status: Aktiv, Abschluss und Abgänger anwählen
 * Sie sollten diesen Filter speichern, damit Sie ihn später über Auswahl - Vorhandene Filter laden .. wieder verwenden können.
@@ -20,12 +20,12 @@ Hinweise:
 - Es wird nicht funktionieren, wenn Sie die Datei als Excel-Datei exportieren und diese als .csv abspeichern.
 * Speichern sie sich diese Exporteinstellung als Vorlage ab, um Sie später schneller wieder verwenden zu können.
 
-### 3. Ein in WebUntis korrekt konfigurierter Import:
+### 3. Ein in WebUntis korrekt konfigurierter Import
 - Als Zeichensatz ist UTF-8 zu wählen.
 
 ![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
 
-## Hinweise:
+## Hinweise
 * Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
 * Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
 * Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
