@@ -22,7 +22,7 @@ Hinweise:
 
 ### 3. Ein in WebUntis korrekt konfigurierter Import:
 - Als Zeichensatz ist UTF-8 zu wählen.
-- ![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
+![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
 
 ## Hinweise:
 * Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
