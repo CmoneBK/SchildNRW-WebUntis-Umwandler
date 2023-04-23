@@ -22,6 +22,7 @@ Hinweise:
 
 ### 3. Ein in WebUntis korrekt konfigurierter Import:
 - Als Zeichensatz ist UTF-8 zu wählen.
+
 ![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
 
 ## Hinweise:
