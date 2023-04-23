@@ -22,7 +22,7 @@ Es wird nicht funktionieren, wenn Sie die Datei als Excel-Datei exportieren und 
 
 3. Ein in WebUntis korrekt konfigurierter Import:
 Als Zeichensatz ist UTF-8 zu wählen.
-https://schulverwaltungsinfos.nrw.de/svws/forum/download/file.php?id=6319
+https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/blob/master/WebUntis%20Importeinstellungen.png
 
 Hinweise:
 Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
@@ -42,5 +42,8 @@ Update 1.2
 - Sie können wählen, ob das vorraussichtliche Abschlussdatum als Entlassdatum eingesetzt werden soll.
 - Sie können Sich außerdem eine Liste von Schüler:innen mit fehlendem Entlassdatum anzeigen lassen, die jedoch bereits abgemeldet oder abgegangen sind.
 
+Installation
+
 Die .exe Dateien finden sie unter:
 Schild WebUntis Bridge2\dist
+Platzieren Sie die .csv im selben Verzeichnis wie die .exe Datei
