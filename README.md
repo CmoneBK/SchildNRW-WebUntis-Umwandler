@@ -40,7 +40,7 @@ Als Zeichensatz ist UTF-8 zu wählen.
 
 ## Installation
 
-Die .exe Dateien finden sie unter: [Version 1.2](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/tree/master/Schild%20WebUntis%20Bridge2/dist/SchildNRW%20WebUntis%20WUmwandler%201.2.exe)
+Die .exe Dateien finden sie unter: [Version 1.2](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/tree/master/Schild%20WebUntis%20Bridge2/dist/SchildNRW%20WebUntis%20Umwandler%201.2.exe)
 
 Sie finden Sie außerdem rechts unter "Releases"
 
