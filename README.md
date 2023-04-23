@@ -22,7 +22,7 @@ Es wird nicht funktionieren, wenn Sie die Datei als Excel-Datei exportieren und 
 
 3. Ein in WebUntis korrekt konfigurierter Import:
 Als Zeichensatz ist UTF-8 zu wählen.
-https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/blob/master/WebUntis%20Importeinstellungen.png
+![Korrekt konfigurierter WebUntis Import](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/blob/master/WebUntis%20Importeinstellungen.png)
 
 Hinweise:
 Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
