@@ -16,9 +16,9 @@ Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm such
 - Als Seperator ist ";" zu wählen.
 - Erforderliche Daten (idealerweise auch in dieser Reihenfolge): Interne ID-Nummer, Nachname, Vorname, Klasse, Geburtsdatum, Geschlecht, vorrauss. Abschluss, Aufnahmedatum, Entlassdatum, Volljährig, Schulpflicht erfüllt, Status
 - Optionale Daten: E-mail (privat), Telefon-Nr., Fax-Nr., Straße, Postleitzahl, Ortsname
-### Hinweise:
+### Hinweise
 - Es wird nicht funktionieren, wenn Sie die Datei als Excel-Datei exportieren und diese als .csv abspeichern.
-* Speichern sie sich diese Exporteinstellung als Vorlage ab, um Sie später schneller wieder verwenden zu können.
+* Speichern Sie sich diese Exporteinstellung als Vorlage ab, um sie später schneller wieder verwenden zu können.
 
 ### 3. Ein in WebUntis korrekt konfigurierter Import
 - Als Zeichensatz ist UTF-8 zu wählen.
@@ -28,8 +28,8 @@ Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm such
 ## Hinweise
 * Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
 * Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
-* Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
-* Importieren sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
+* Importieren Sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
+* Importieren Sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
 * Die Daten Schulpflicht und Volljährig sind nur bei Nutzung des digitalen Klassenbuchs oder bei der Nutzung von WebUnits als digialer Klassenordner von Nutzen.
 - Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich übernehme keinerlei Haftung.
 
@@ -41,8 +41,8 @@ Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm such
 
 ## Installation
 
-Die .exe Dateien finden Sie unter: [Version 1.2](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/tree/master/Schild%20WebUntis%20Bridge2/dist/SchildNRW%20WebUntis%20Umwandler%201.2.exe)
+Die .exe Dateien finden Sie unter: [Version 1.2](https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/tree/master/Schild%20WebUntis%20Bridge2/dist/SchildNRW%20WebUntis%20Umwandler%201.2.exe) Dort gibt es rechts einen Download-Button.
 
-Sie finden Sie außerdem rechts unter "Releases"
+Sie finden Sie außerdem rechts unter "Releases".
 
 Platzieren Sie die .csv im selben Verzeichnis wie die .exe Datei
