@@ -47,6 +47,7 @@ Installation
 Die .exe Dateien finden sie unter:
 
 Schild WebUntis Bridge2\dist
+https://github.com/CmoneBK/SchildNRW-WebUntis-Umwandler/tree/master/Schild%20WebUntis%20Bridge2/dist
 
 Sie finden Sie außerdem rechts unter "Releases"
 
