@@ -25,12 +25,12 @@ Als Zeichensatz ist UTF-8 zu wählen.
 ![Korrekt konfigurierter WebUntis Import](/WebUntis%20Importeinstellungen.png)
 
 ## Hinweise:
-*Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
-*Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
-*Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
-*Importieren sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
-*Die Daten Schulpflicht und Volljährig sind nur bei Nutzung des digitalen Klassenbuchs oder bei der Nutzung von WebUnits als digialer Klassenordner von Nutzen.
--Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich übernehme keinerlei Haftung.
+* Wir benutzen die Interne ID-Nummer aus Schild / Schlüssel(extern) in WebUnits zur Schüleridentifikation. Das kann bei Ihnen anders sein.
+* Wir benutzen das Feld Faxnummer aus Schild als Mobiltelefonnummer
+* Importieren sie den Status aktiv, werden inaktive Schüler in WebUnits deaktiviert (nicht gelöscht)
+* Importieren sie das Entlassdatum, werden Schüler auch in WebUntis ab diesem Datum nicht mehr in dem Klassenbuch angezeigt, rückwirkend aber schon. Es gehen keine Daten verloren.
+* Die Daten Schulpflicht und Volljährig sind nur bei Nutzung des digitalen Klassenbuchs oder bei der Nutzung von WebUnits als digialer Klassenordner von Nutzen.
+- Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich übernehme keinerlei Haftung.
 
 ### Update 1.2
 Änderungen:
