@@ -34,3 +34,13 @@ Testen Sie den Import unbedingt vorher in einer WebUnits Spielwiese! Ich überne
 Sie erhalten unter folgenden Links die ausführbaren .exe Dateien,
 die zu grundliegenden Python Skripte, aus dem die .exe Datei kompiliert wurden
 und den Quellcode nochmal als .txt Dateien.
+
+
+Update 1.2
+Änderungen:
+- Es wird nun ein Browserfenster mit Auswahloptionen angezeigt.
+- Sie können wählen, ob das vorraussichtliche Abschlussdatum als Entlassdatum eingesetzt werden soll.
+- Sie können Sich außerdem eine Liste von Schüler:innen mit fehlendem Entlassdatum anzeigen lassen, die jedoch bereits abgemeldet oder abgegangen sind.
+
+Die .exe Dateien finden sie unter:
+Schild WebUntis Bridge2\dist
