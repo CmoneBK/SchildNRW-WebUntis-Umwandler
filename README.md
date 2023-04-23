@@ -10,7 +10,7 @@ Dazu muss die .csv im selben Ordner liegen wie die .exe Datei. Das Programm such
 ### 1. Ein Auswahfilter (Filter I) in SchildNRW, der wie folgt eingestellt ist
 - Unten bei Laufbahninfo: Schuljahr das aktuelle Schuljahr auswählen
 - Oben rechts bei Status: Aktiv, Abschluss und Abgänger anwählen
-* Sie sollten diesen Filter speichern, damit Sie ihn später über Auswahl - Vorhandene Filter laden .. wieder verwenden können.
+* Sie sollten diesen Filter speichern, damit Sie ihn später über "Auswahl - Vorhandene Filter laden" wieder verwenden können.
 
 ### 2. Ein Export aus SchildNRW als Text/Excel Export, jedoch unbedingt mit der manuell eingegebenen Dateiendung .csv.
 - Als Seperator ist ";" zu wählen.
