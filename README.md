@@ -45,7 +45,5 @@ Update 1.2
 Installation
 
 Die .exe Dateien finden sie unter:
-
 Schild WebUntis Bridge2\dist
-
 Platzieren Sie die .csv im selben Verzeichnis wie die .exe Datei
