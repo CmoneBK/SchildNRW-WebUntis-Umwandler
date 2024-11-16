@@ -1,3 +1,8 @@
+# WICHTIG: Dieses Repository wird nicht mehr gepflegt
+
+Dieses Repository wurde archiviert und wird nicht mehr aktualisiert. Die Weiterentwicklung des Projekts findet jetzt hier statt: [Schild-WebUntis-Tool]([https://github.com/neues-repository](https://github.com/CmoneBK/Schild-WebUntis-Tool/tree/master)).
+
+
 # SchildNRW-WebUntis-Umwandler
 Ein Umwanlder, der Daten aus SchildNRW passend für den Import nach WebUntis aufbereitet.
 
